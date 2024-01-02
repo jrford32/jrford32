@@ -4,6 +4,7 @@
 
 <h2>📄Certifications</h2>
 
+- [CompTIA Security+](http://verify.comptia.org/)
 - [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/K4CPV8BJMYC8)
 - [Google IT Support Professional](https://coursera.org/verify/professional-cert/99X6DLGGFYD8)
 - [CompTIA Network+](http://verify.comptia.org/)
