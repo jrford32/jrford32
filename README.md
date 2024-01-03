@@ -1,6 +1,7 @@
 <h1>Hi, I'm Jalen! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+- [Nessus Essentials Vulnerability Management Lab](https://docs.google.com/document/d/1VDYHvujcBGSEgDghvPGLh-uRFmMiy4hDRwAd0-VvXL4/edit)
 
 <h2>📄Certifications</h2>
 
