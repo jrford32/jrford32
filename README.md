@@ -10,11 +10,11 @@
 
 <h2>📄Certifications</h2>
 
-- [CompTIA Security+](http://verify.comptia.org/)
+- [CompTIA Security+](https://www.credly.com/badges/bfde4d70-351d-4359-8bb4-6eae96cc24d8/linked_in_profile)
+- [CompTIA Network+](https://www.credly.com/badges/8e001d33-b066-45dd-bf31-806a3797b471/linked_in_profile)
+- [CompTIA A+](https://www.credly.com/badges/b74c5fc4-52e5-4674-9e42-8136743d8340/wallet)
 - [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/K4CPV8BJMYC8)
 - [Google IT Support Professional](https://coursera.org/verify/professional-cert/99X6DLGGFYD8)
-- [CompTIA Network+](http://verify.comptia.org/)
-- [CompTIA A+](http://verify.comptia.org/)
   
 <h2> 🤳 Connect with me:</h2>
 
