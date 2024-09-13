@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Vulnerability Management Home Lab](https://github.com/jrford32/Nessus-Vulnerability-Management)
-- [Cloud Soc + Honeynet]()
+- [Cloud SOC + Honeynet](https://github.com/jrford32/JalenCyberLab)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
