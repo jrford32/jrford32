@@ -1,13 +1,14 @@
 <h1>Hi, I'm Jalen! 
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Vulnerability Management Home Lab](https://github.com/jrford32/Nessus-Vulnerability-Management)
+  
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - [ProtonVPN Setup](https://github.com/jrford32/ProtonVPN)
 - [Exploring Azure and Networking Concepts](https://github.com/jrford32/Networking-Concepts)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- [Vulnerability Management Home Lab](https://github.com/jrford32/Nessus-Vulnerability-Management)
 
 <h2>📄Certifications</h2>
 
